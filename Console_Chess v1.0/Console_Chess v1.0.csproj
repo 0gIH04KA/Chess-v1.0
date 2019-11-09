@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>Console_Chess_v1._0</RootNamespace>
+    <Authors>Vitalii Vit</Authors>
+    <Company>levelUP</Company>
+    <PackageId>Chess v1.0</PackageId>
+  </PropertyGroup>
+
+</Project>
